@@ -34,7 +34,7 @@ export default function Navbar() {
                 <Select
                     className="max-w-xs"
                     size="sm"
-                    defaultSelectedKeys={["cat"]}
+                    defaultSelectedKeys={["NY"]}
                     label="Select your State"
                     placeholder="Select your State"
                     onSelectionChange={(value) => onSelectStateHandler(Array.from(value)[0].toString())}
