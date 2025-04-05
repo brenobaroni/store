@@ -21,12 +21,12 @@ export default function Navbar() {
         <div className="flex w-full top-0 h-16 justify-between bg-amber-400 text-foreground-500">
             {/* Init Content */}
             <div className="flex w-4/12 h-full items-center justify-start">
-                dsfdsf
+
             </div>
 
             {/* mid Content */}
             <div className="flex w-4/12 h-full items-center justify-start">
-                dsffds
+
             </div>
 
             {/* End Content */}
